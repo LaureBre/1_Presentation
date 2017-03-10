@@ -1,7 +1,7 @@
 # Laure Bredelet
 
 Pour la petite présentation, je suis fille et soeur d'informaticiens : j'ai toujours vu un ordinateur chez moi, et ça a toujours été mon mode de communication privilégié. J'ai fait mes premiers pas professionnels là-dedans mais j'ai bifurqué bien vite dans l'humain, j'avais besoin de me construire en dehors de la machine. Voilà qui est fait, je peux donc y revenir. ;)
-![]
+
 
 ## Expériences professionnelles
 
