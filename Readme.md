@@ -2,7 +2,6 @@
 
 Pour la petite présentation, je suis fille et soeur d'informaticiens : j'ai toujours vu un ordinateur chez moi, et ça a toujours été mon mode de communication privilégié. J'ai fait mes premiers pas professionnels là-dedans mais j'ai bifurqué bien vite dans l'humain, j'avais besoin de me construire en dehors de la machine. Voilà qui est fait, je peux donc y revenir. ;)
 
-
 ## Expériences professionnelles
 
 * **Programmeuse Visual Basic**... 8 mois en 2001 (pilotage de Word pour une simulation de crédit immobilier)
@@ -24,7 +23,7 @@ Pour la petite présentation, je suis fille et soeur d'informaticiens : j'ai tou
 * **Stagiaire en communication** (2016)
 	* mise en situation professionnelle chez *Alpha Distribution*, Entreprise d'Entraînement
 	* préparation d'un stand jeu de l'oie pour la *foire expo de Bourges 2017* (présentation des 16 communes de l'agglomération)
-	
+
 
 * **Formatrice en communication et informatique commerciale** (vacataire) quelques heures par semaine (actuel)
 
@@ -42,7 +41,11 @@ Pour la petite présentation, je suis fille et soeur d'informaticiens : j'ai tou
 
 ## [Simplonline](http://simplonline.co) ?
 ![Codeurs Web 18](https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sb31bb40a0d3446a1/image/i7120c402d61709fa/version/1488905663/image.jpg)
+
 La formation "Codeurs Web 18" organisée sur Bourges par [Egee](http://www.egee.asso.fr/) avec l'aide de la [BGE](http://bge.asso.fr/) me donne accès au MOOC [Game of Codes](https://www.codeursweb18.fr/)
+> Un langage de programmation est censé être une façon conventionnelle de donner des instructions à un ordinateur, et doit pouvoir être écrit et relu par des personnes différentes. Il n’est pas censé être obscur, bizarre et plein de pièges subtils (ça, ce sont les attributs de la magie).
+
+ `Dave Small, ST Magazine, novembre 1992`
 
 * Dépoussiérer mes vieilles connaissances trop partielles (HTML, CSS, PHP, Javascript...)
 
