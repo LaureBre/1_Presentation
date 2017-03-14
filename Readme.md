@@ -63,3 +63,7 @@ La formation "Codeurs Web 18" organisée sur Bourges par [Egee](http://www.egee.
 * Faire le site Galerie d'une amie artiste
 
 	![Estelle](http://www.animalartparis.com/salon/wp-content/uploads/sites/3/2015/01/2004-10-14-Brocard-ds-foug%C3%A8res-480x400.jpg)
+
+* Ou refaire le site de mes amis encadreurs :
+
+	![L'Amand'Art](http://www.lamandart.com/templates/qositemplate/images/logo.png)
