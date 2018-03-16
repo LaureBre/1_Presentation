@@ -1,3 +1,6 @@
+Contexte : formation Codeur Web 18
+Exercice : Faire une présentation en markdown en utilisant titres, liens, images, listes.
+
 # Laure Bredelet
 
 Pour la petite présentation, je suis fille et soeur d'informaticiens : j'ai toujours vu un ordinateur chez moi, et ça a toujours été mon mode de communication privilégié. J'ai fait mes premiers pas professionnels là-dedans mais j'ai bifurqué bien vite dans l'humain, j'avais besoin de me construire en dehors de la machine. Voilà qui est fait, je peux donc y revenir. ;)
@@ -52,18 +55,3 @@ La formation "Codeurs Web 18" organisée sur Bourges par [Egee](http://www.egee.
 * Me remettre dans le bain pour pouvoir aller plus loin par moi-même, dans l'environnement Web actuel qui permet tellement plus de choses
 
 * Trouver un emploi - soit dans le pur développement, soit par combinaison de mes capacités en communication et en informatique.
-
-
-## Premiers projets
-
-* Faire de mon site ce que je veux ! Apparence, contenu, navigation.
-
-	![Poemes](poemes200-2.png)
-
-* Faire le site Galerie d'une amie artiste
-
-	![Estelle](http://www.animalartparis.com/salon/wp-content/uploads/sites/3/2015/01/2004-10-14-Brocard-ds-foug%C3%A8res-480x400.jpg)
-
-* Ou refaire le site de mes amis encadreurs :
-
-	![L'Amand'Art](http://www.lamandart.com/templates/qositemplate/images/logo.png)
