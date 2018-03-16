@@ -1,4 +1,5 @@
-Contexte : formation Codeur Web 18
+Contexte : formation Codeur Web 18, Bourges 2017
+
 Exercice : Faire une présentation en markdown en utilisant titres, liens, images, listes.
 
 # Laure Bredelet
